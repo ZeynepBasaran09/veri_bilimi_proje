@@ -3,7 +3,7 @@
 
 Bu proje, makine sensör verilerini kullanarak makine arıza durumunu tahmin etmeyi amaçlayan bir makine öğrenmesi çalışmasıdır. Farklı algoritmalar denenerek modellerin performansları karşılaştırılmıştır.
 
-#Kullanılan Yöntemler
+Kullanılan Yöntemler
 
 Projede aşağıdaki makine öğrenmesi algoritmaları kullanılmıştır:
 
@@ -21,7 +21,7 @@ Neural Network (MLP)
 
 Ayrıca veri seti üzerinde feature engineering yapılmış ve modele ek özellikler eklenmiştir.
 
-#Proje Süreci
+Proje Süreci
 
 Veri seti analiz edildi ve temizlendi
 
@@ -37,6 +37,6 @@ Accuracy ve classification report ile sonuçlar değerlendirildi
 
 Confusion matrix görselleri oluşturuldu
 
-#Sonuçlar
+Sonuçlar
 
 En iyi performansı Random Forest modeli göstermiştir. Genel olarak ağaç tabanlı yöntemlerin bu veri setinde daha başarılı olduğu görülmüştür.
